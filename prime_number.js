@@ -3,7 +3,7 @@ let count = 0;
 let num = 2;
 
 for(let i=1; i<=num; i++){
-    if(num%i != 0){
+    if(num%i == 0){
         count++;
     }
 }
