@@ -1,3 +1,4 @@
+
 let count = 0;
 let num = 2;
 
@@ -14,3 +15,4 @@ if(count == 2){
 else{
     console.log("No");
 }
+
